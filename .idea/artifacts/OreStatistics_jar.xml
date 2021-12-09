@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="OreStatistics:jar">
+    <output-path>$USER_HOME$/Paper Server/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="OreStatistics.jar">
+        <element id="module-output" name="OreStatistics" />
+      </element>
+    </root>
+  </artifact>
+</component>

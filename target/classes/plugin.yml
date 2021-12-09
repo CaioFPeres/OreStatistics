@@ -1,0 +1,43 @@
+name: OreStatistics
+main: OreStatistics
+version: 0.0.1
+description: Ore statistics.
+api-version: 1.17
+load: STARTUP
+commands:
+  coal:
+    description: Get the height that has the highest amount of diamonds
+    usage: /coal
+    permission: yourplugin.yourcommandpermission
+  copper:
+    description: Get the height that has the highest amount of diamonds
+    usage: /copper
+    permission: yourplugin.yourcommandpermission
+  lapis:
+    description: Get the height that has the highest amount of diamonds
+    usage: /lapis
+    permission: yourplugin.yourcommandpermission
+  iron:
+    description: Get the height that has the highest amount of diamonds
+    usage: /iron
+    permission: yourplugin.yourcommandpermission
+  gold:
+    description: Get the height that has the highest amount of diamonds
+    usage: /gold
+    permission: yourplugin.yourcommandpermission
+  redstone:
+    description: Get the height that has the highest amount of diamonds
+    usage: /redstone
+    permission: yourplugin.yourcommandpermission
+  diamond:
+    description: Get the height that has the highest amount of diamonds
+    usage: /diamond
+    permission: yourplugin.yourcommandpermission
+  emerald:
+    description: Get the height that has the highest amount of diamonds
+    usage: /emerald
+    permission: yourplugin.yourcommandpermission
+  save:
+    description: save statistics
+    usage: /save
+    permission: yourplugin.yourcommandpermission
